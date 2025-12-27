@@ -1,0 +1,418 @@
+[
+    {
+        "name": "Auping Store Utrecht",
+        "categories": [
+            "Slapen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/auping-store-utrecht/"
+    },
+    {
+        "name": "BeddenREUS",
+        "categories": [
+            "Slapen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/beddenreus/"
+    },
+    {
+        "name": "Beter Bed",
+        "categories": [
+            "Slapen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/beter-bed/"
+    },
+    {
+        "name": "Bommel Wonen",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/bommel-wonen/"
+    },
+    {
+        "name": "Brugman Keukens en Badkamers",
+        "categories": [
+            "Koken",
+            "Baden"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/brugman-keukens-en-badkamers/"
+    },
+    {
+        "name": "Bruynzeel Keukens",
+        "categories": [
+            "Koken"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/bruynzeel-keukens/"
+    },
+    {
+        "name": "De Machinekamer",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/de-machinekamer/"
+    },
+    {
+        "name": "ECHTwonen",
+        "categories": [
+            "Wonen",
+            "Slapen",
+            "Koken"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/echtwonen/"
+    },
+    {
+        "name": "Exterioo Tuinmeubelen",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/exterioo-tuinmeubelen-utrecht/"
+    },
+    {
+        "name": "Exterioo Tuinmeubelen Utrecht",
+        "categories": [
+            "Buiten"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/exterioo-tuinmeubelen-utrecht/"
+    },
+    {
+        "name": "Goossens slapen",
+        "categories": [
+            "Slapen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/goossens-wonen-en-slapen/"
+    },
+    {
+        "name": "Goossens wonen Utrecht",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/goossens-wonen-en-slapen/"
+    },
+    {
+        "name": "Grando Keukens & Bad",
+        "categories": [
+            "Koken",
+            "Baden"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/grando-keukens-bad-utrecht/"
+    },
+    {
+        "name": "Haco",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/haco/"
+    },
+    {
+        "name": "Hartog Wonen",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/hartog-wonen/"
+    },
+    {
+        "name": "Hello Kitchen",
+        "categories": [
+            "Koken"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/hello-kitchen/"
+    },
+    {
+        "name": "HelloTV",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/plattetv-utrecht/"
+    },
+    {
+        "name": "IKEA Utrecht",
+        "categories": [
+            "Wonen",
+            "Slapen",
+            "Koken",
+            "Baden",
+            "Buiten",
+            "Horeca"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/ikea/"
+    },
+    {
+        "name": "Jysk",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/jysk/"
+    },
+    {
+        "name": "Keuken Kampioen",
+        "categories": [
+            "Koken"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/keuken-kampioen/"
+    },
+    {
+        "name": "KeukenConcurrent",
+        "categories": [
+            "Koken"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/keukenconcurrent/"
+    },
+    {
+        "name": "Keukenloods",
+        "categories": [
+            "Koken"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/keukenloods/"
+    },
+    {
+        "name": "Kitchen4All",
+        "categories": [
+            "Koken"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/kitchen4all/"
+    },
+    {
+        "name": "Kvik Utrecht",
+        "categories": [
+            "Koken",
+            "Baden"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/kvik/"
+    },
+    {
+        "name": "Kwantum",
+        "categories": [
+            "Wonen",
+            "Buiten"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/kwantum/"
+    },
+    {
+        "name": "La Piazza Basilico",
+        "categories": [
+            "Horeca"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/la-piazza-basilico/"
+    },
+    {
+        "name": "Lederland",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/lederland/"
+    },
+    {
+        "name": "Leen Bakker",
+        "categories": [
+            "Wonen",
+            "Buiten"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/leen-bakker/"
+    },
+    {
+        "name": "MamaLoes",
+        "categories": [
+            "Slapen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/mamaloes/"
+    },
+    {
+        "name": "Marquardt Keuken",
+        "categories": [
+            "Koken"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/marquardt-keuken/"
+    },
+    {
+        "name": "Montèl",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/montel/"
+    },
+    {
+        "name": "Morgana Slapen",
+        "categories": [
+            "Slapen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/morgana/"
+    },
+    {
+        "name": "Onze Teakhoek",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/onze-teakhoek/"
+    },
+    {
+        "name": "Piet Klerkx",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/piet-klerkx/"
+    },
+    {
+        "name": "Prestige Sanitair",
+        "categories": [
+            "Baden"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/prestige-sanitair/"
+    },
+    {
+        "name": "Profijt Meubel Utrecht",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/profijt-meubel/"
+    },
+    {
+        "name": "Prominent",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/prominent/"
+    },
+    {
+        "name": "Pronto Wonen",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/pronto-wonen/"
+    },
+    {
+        "name": "Prénatal",
+        "categories": [
+            "Slapen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/prenatal/"
+    },
+    {
+        "name": "Restaurant ’t Parkhuys",
+        "categories": [
+            "Horeca"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/restaurant-t-parkhuys/"
+    },
+    {
+        "name": "Sanders Wonen",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/sanders-wonen/"
+    },
+    {
+        "name": "Sani-Dump",
+        "categories": [
+            "Baden"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/sanidump/"
+    },
+    {
+        "name": "SaniSale",
+        "categories": [
+            "Baden"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/sanisale/"
+    },
+    {
+        "name": "Sanidirect Utrecht",
+        "categories": [
+            "Baden"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/sanidirect/"
+    },
+    {
+        "name": "Superkeukens",
+        "categories": [
+            "Koken"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/superkeukens/"
+    },
+    {
+        "name": "Swiss Sense",
+        "categories": [
+            "Slapen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/swiss-sense/"
+    },
+    {
+        "name": "TH Living",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/th-living"
+    },
+    {
+        "name": "Trendhopper",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/trendhopper/"
+    },
+    {
+        "name": "Tuinmeubelshop",
+        "categories": [
+            "Wonen",
+            "Buiten"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/tuinmeubelshop/"
+    },
+    {
+        "name": "Tulp Keukens",
+        "categories": [
+            "Koken"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/tulp-keukens/"
+    },
+    {
+        "name": "UrbanSofa",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/urbansofa"
+    },
+    {
+        "name": "Vloer Utrecht",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/vloer-utrecht/"
+    },
+    {
+        "name": "Woninginrichting Aan Huis",
+        "categories": [
+            "Wonen",
+            "Slapen",
+            "Buiten"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/woninginrichting-aanhuis/"
+    },
+    {
+        "name": "Woonspecialist Utrecht",
+        "categories": [
+            "Wonen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/woonspecialist-utrecht/"
+    },
+    {
+        "name": "X2O Badkamers",
+        "categories": [
+            "Baden"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/x2o/"
+    },
+    {
+        "name": "eLIVING",
+        "categories": [
+            "Wonen",
+            "Slapen",
+            "Buiten"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/eliving/"
+    },
+    {
+        "name": "totaalBED",
+        "categories": [
+            "Slapen"
+        ],
+        "url": "https://woonboulevardutrecht.com/winkels/totaalbed/"
+    }
+]
