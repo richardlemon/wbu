@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Morning Wake Up",
+    "description": "Start your day with energy.",
+    "duration": 600,
+    "exercises": [
+      {
+        "name": "Neck Rolls",
+        "duration": 60,
+        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Neck+Rolls"
+      },
+      {
+        "name": "Shoulder Shrugs",
+        "duration": 60,
+        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Shoulder+Shrugs"
+      },
+      {
+        "name": "Cat-Cow Stretch",
+        "duration": 90,
+        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Cat-Cow"
+      },
+      {
+        "name": "Child's Pose",
+        "duration": 90,
+        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Child's+Pose"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Evening Unwind",
+    "description": "Relax before bed.",
+    "duration": 900,
+    "exercises": [
+      {
+        "name": "Forward Fold",
+        "duration": 120,
+        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Forward+Fold"
+      },
+      {
+        "name": "Butterfly Stretch",
+        "duration": 120,
+        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Butterfly+Stretch"
+      },
+      {
+        "name": "Supine Twist",
+        "duration": 120,
+        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Supine+Twist"
+      }
+    ]
+  }
+]
