@@ -1,52 +1,103 @@
 [
   {
-    "id": 1,
+    "id": "morning-flow",
     "name": "Morning Wake Up",
-    "description": "Start your day with energy.",
+    "tag": "Energy",
+    "description": "A gentle flow to wake up your body and mind. Perfect for starting the day with intention and flexibility.",
     "duration": 600,
+    "image": "https://images.unsplash.com/photo-1544367563-12123d8959bd?auto=format&fit=crop&q=80&w=1000",
     "exercises": [
       {
         "name": "Neck Rolls",
+        "description": "Gently roll your head in a circular motion to release tension.",
         "duration": 60,
-        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Neck+Rolls"
+        "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&q=80&w=500"
       },
       {
         "name": "Shoulder Shrugs",
+        "description": "Lift your shoulders up to your ears and release them down.",
         "duration": 60,
-        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Shoulder+Shrugs"
+        "image": "https://images.unsplash.com/photo-1532798442725-41036acc7489?auto=format&fit=crop&q=80&w=500"
       },
       {
         "name": "Cat-Cow Stretch",
+        "description": "Flow between arching and rounding your back to warm up the spine.",
         "duration": 90,
-        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Cat-Cow"
+        "image": "https://images.unsplash.com/photo-1544367563-12123d8959bd?auto=format&fit=crop&q=80&w=500"
       },
       {
         "name": "Child's Pose",
+        "description": "Rest your hips back on your heels and reach your arms forward.",
         "duration": 90,
-        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Child's+Pose"
+        "image": "https://images.unsplash.com/photo-1544367563-12123d8959bd?auto=format&fit=crop&q=80&w=500"
       }
     ]
   },
   {
-    "id": 2,
-    "name": "Evening Unwind",
-    "description": "Relax before bed.",
-    "duration": 900,
+    "id": "lower-body",
+    "name": "Lower Body Mobility",
+    "tag": "Mobility",
+    "description": "Focus on opening up the hips, hamstrings, and calves. Great for runners or after sitting all day.",
+    "duration": 1020,
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&q=80&w=1000",
     "exercises": [
       {
         "name": "Forward Fold",
+        "description": "Hinge at the hips and let your head hang heavy.",
         "duration": 120,
-        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Forward+Fold"
+        "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&q=80&w=500"
       },
       {
         "name": "Butterfly Stretch",
+        "description": "Bring the soles of your feet together and let your knees drop open.",
         "duration": 120,
-        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Butterfly+Stretch"
+        "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&q=80&w=500"
       },
       {
-        "name": "Supine Twist",
+        "name": "Pigeon Pose (Left)",
+        "description": "Bring your left knee forward and extend your right leg back.",
         "duration": 120,
-        "image": "https://dummyimage.com/400x300/e2e8f0/0f172a&text=Supine+Twist"
+        "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&q=80&w=500"
+      },
+      {
+        "name": "Pigeon Pose (Right)",
+        "description": "Bring your right knee forward and extend your left leg back.",
+        "duration": 120,
+        "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&q=80&w=500"
+      },
+       {
+        "name": "Supine Twist",
+        "description": "Lie on your back and twist your knees to one side.",
+        "duration": 120,
+        "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&q=80&w=500"
+      }
+    ]
+  },
+  {
+    "id": "sleep-easy",
+    "name": "Sleep Easy",
+    "tag": "Relaxation",
+    "description": "A calming routine to prepare your body for deep sleep.",
+    "duration": 720,
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=1000",
+    "exercises": [
+      {
+        "name": "Legs Up The Wall",
+        "description": "Lie on your back with your legs extending up the wall.",
+        "duration": 180,
+        "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=500"
+      },
+      {
+        "name": "Reclined Bound Angle",
+        "description": "Lie back with soles of feet touching, knees open.",
+        "duration": 180,
+        "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=500"
+      },
+      {
+        "name": "Happy Baby",
+        "description": "Hold onto your feet and gently rock side to side.",
+        "duration": 120,
+        "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=500"
       }
     ]
   }
