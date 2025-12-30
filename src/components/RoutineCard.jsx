@@ -1,41 +1,46 @@
 import React from 'react';
-import { Play } from 'lucide-react';
+import { Clock, Play } from 'lucide-react';
 
-const RoutineCard = ({ routine, onStart }) => {
+const RoutineCard = ({ routine, onClick }) => {
+  const formatTime = (seconds) => {
+    return `${Math.floor(seconds / 60)} min`;
+  };
+
   return (
-    <div className="bg-white rounded-2xl p-6 shadow-sm border border-stone-200 hover:shadow-md transition-shadow">
-      <div className="flex justify-between items-start mb-4">
-        <div>
-            <h3 className="text-xl font-bold text-slate-900">{routine.name}</h3>
-            <p className="text-slate-500 mt-1">{routine.description}</p>
+    <div
+      onClick={() => onClick(routine)}
+      className="group relative bg-white border border-stone-200 rounded-[2rem] overflow-hidden cursor-pointer hover:shadow-xl hover:shadow-stone-200/50 transition-all duration-300 hover:-translate-y-1"
+    >
+      <div className="h-56 w-full overflow-hidden relative">
+        <div className="absolute inset-0 bg-slate-900/10 group-hover:bg-slate-900/0 transition-colors z-10" />
+        <img
+          src={routine.image}
+          alt={routine.name}
+          className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+        />
+        <div className="absolute top-4 left-4 z-20">
+            <span className="px-3 py-1 bg-white/90 backdrop-blur-sm text-xs font-semibold text-slate-800 rounded-full shadow-sm">
+                {routine.tag}
+            </span>
         </div>
-        <span className="text-sm font-medium bg-stone-100 text-slate-600 px-3 py-1 rounded-full">
-            {Math.floor(routine.duration / 60)} min
-        </span>
       </div>
-
-      <div className="flex items-center justify-between mt-6">
-        <div className="flex -space-x-2">
-            {routine.exercises.slice(0, 3).map((ex, i) => (
-                <div key={i} className="w-8 h-8 rounded-full bg-stone-200 border-2 border-white overflow-hidden" title={ex.name}>
-                    {/* Placeholder for small exercise preview */}
-                    <div className="w-full h-full bg-sage opacity-50"></div>
-                </div>
-            ))}
-            {routine.exercises.length > 3 && (
-                <div className="w-8 h-8 rounded-full bg-stone-100 border-2 border-white flex items-center justify-center text-xs text-slate-500">
-                    +{routine.exercises.length - 3}
-                </div>
-            )}
+      <div className="p-6">
+        <div className="flex items-center justify-between mb-3">
+             <h3 className="text-xl font-bold text-slate-900 group-hover:text-sage-dark transition-colors">{routine.name}</h3>
         </div>
 
-        <button
-            onClick={() => onStart(routine)}
-            className="flex items-center space-x-2 bg-slate-900 text-white px-4 py-2 rounded-full hover:bg-slate-800 transition-colors"
-        >
-            <Play size={16} fill="currentColor" />
-            <span>Start</span>
-        </button>
+        <p className="text-stone-500 text-sm leading-relaxed mb-6 line-clamp-2">{routine.description}</p>
+
+        <div className="flex items-center justify-between pt-4 border-t border-stone-100">
+             <div className="flex items-center text-stone-400 text-xs font-medium gap-1.5">
+                <Clock className="w-4 h-4" />
+                {formatTime(routine.duration + 120)}
+            </div>
+
+            <div className="flex items-center gap-2 text-sm font-semibold text-sage-dark opacity-0 group-hover:opacity-100 transition-all duration-300 transform translate-x-[-10px] group-hover:translate-x-0">
+                Begin <Play className="w-4 h-4 fill-current" />
+            </div>
+        </div>
       </div>
     </div>
   );

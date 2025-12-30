@@ -3,8 +3,16 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 
-createRoot(document.getElementById('root')).render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
-)
+console.log('Mounting React App...');
+
+const rootElement = document.getElementById('root');
+if (!rootElement) {
+    console.error('Failed to find root element');
+} else {
+    createRoot(rootElement).render(
+      <StrictMode>
+        <App />
+      </StrictMode>,
+    )
+    console.log('React App Mounted');
+}
