@@ -68,10 +68,13 @@ const ActiveSession = ({ routine, onExit }) => {
         </button>
       </div>
 
-      <div className="w-full max-w-md mt-6 p-4 bg-white rounded-xl shadow-sm border border-stone-200">
+      <div
+        className={`w-full max-w-md mt-6 p-4 bg-white rounded-xl shadow-sm border border-stone-200 ${nextExercise ? 'cursor-pointer hover:bg-stone-50 transition-colors' : ''}`}
+        onClick={nextExercise ? handleNext : undefined}
+      >
         <div className="flex items-center justify-between">
             <div>
-                <p className="text-sm text-slate-500 uppercase tracking-wide">Up Next</p>
+                <p className="text-sm text-slate-500 uppercase tracking-wide">Up Next (Tap to Skip)</p>
                 <p className="text-lg font-medium text-slate-900">
                     {nextExercise ? nextExercise.name : "Session Complete"}
                 </p>
