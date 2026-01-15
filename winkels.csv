@@ -1,0 +1,4 @@
+titel;adres;postcode_plaats;telefoon;online_aanbod_url;bezoek_plannen_url
+Winkel A;Kalverstraat 1;1012 AA Amsterdam;020-1234567;https://winkela.nl/shop;https://winkela.nl/afspraak
+Winkel B;Lijnbaan 50;3012 ER Rotterdam;010-9876543;https://winkelb.com;
+Winkel C;Kruisstraat 10;3581 GK Utrecht;030-1122334;;https://winkelc.nl/plannen
